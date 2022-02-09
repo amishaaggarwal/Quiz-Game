@@ -1,0 +1,12 @@
+@import "constant/sass/variable.scss";
+
+.login-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    .login-form-inner
+    {
+        width: 30vw;
+    }
+}

@@ -1,0 +1,17 @@
+.tab {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 5px;
+    .serial-num {
+        width: 30%;
+        font-weight: 600;
+        color: #ccc;
+    }
+    .money-value {
+        font-size: 18px;
+        font-weight: 500;
+        color: #fff;
+        width: 70%;
+    }
+}
